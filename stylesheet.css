@@ -4,3 +4,8 @@ h1 { color: purple;
 
 p{ color: darkcyan;
   text-align: center;}
+
+h2 {
+     color:aqua;
+     font-size:25px;
+}
